@@ -1,15 +1,20 @@
 Example/
-input/
 MACOSX/
+photos/
+pics_for_presentation/
 zip-files/
 bucket_attempt.ipynb
 gcloudcommands.ipynb
+M4-FP-Amazon-Submission-v1.ipynb
 M4-FP-Amazon-Submission-with-notes-for-me.ipynb
 pip-commands-used.ipynb
-AutoRecovery save of Document1.asd.docx
+best_model_acc.h5
+best_model_byLoss.h5
+final_model.h5
 Kaggle-planet-test-tif.torrent
 Kaggle-planet-train-tif.torrent
 libraries.txt
+notes-for-blog-post.docx
 Notes.md
 planet_data-Copy.npz
 planet_data.npz
